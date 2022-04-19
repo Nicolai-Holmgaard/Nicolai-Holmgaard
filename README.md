@@ -6,7 +6,7 @@
 - 💼 Jeg arbejder hos SolKro som app udvikler, hvor jeg bruger react native
 - 📪 Hvis du vil kontakte mig, så send mig en email: Nicolai@holmgaard.info
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolai-holmgaard&label=Profile%20views&color=0e75b6&style=flat" alt="nicolai-holmgaard" /> </p>loo
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolai-holmgaard&label=Profile%20views&color=0e75b6&style=flat" alt="nicolai-holmgaard" /> </p>
 
 ​![​Nicolai Holmgaard's github stats​](https://github-readme-stats.vercel.app/api?username=Nicolai-Holmgaard&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
