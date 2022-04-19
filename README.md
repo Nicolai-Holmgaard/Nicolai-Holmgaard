@@ -21,7 +21,7 @@ Det bruger jeg til at lave hjemmesider i react og mobile apps i react native.
 Til backend bruger jeg socket.io og express.
 For at håndtere database vil jeg normalt bruge Prisma for at gøre det hele nemt.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolai-holmgaard&show_icons=true&locale=en&layout=compact" alt="nicolai-holmgaard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolai-holmgaard&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en&layout=compact" alt="nicolai-holmgaard" /></p>
 
 ### Andre it kompetencer
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
