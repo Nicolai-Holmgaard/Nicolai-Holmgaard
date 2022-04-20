@@ -40,5 +40,5 @@ Planen er at blive blive erfaren i at bruge AWS og bruge det på den bedste måd
 Du kan finde mig disse steder
 - Min hjemmeside: *coming soon*
 - Facebook: <a href="https://fb.com/nicolai.holmgaard.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicolai.holmgaard.33" height="30" width="40" /></a>
-- Instagram: <a href="https://instagram.com/nicolai_holmgaatd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolai_holmgaatd" height="30" width="40" /></a>
+- Instagram: <a href="https://instagram.com/nicolai_holmgaard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolai_holmgaatd" height="30" width="40" /></a>
 - Email: Nicolai@holmgaard.info
