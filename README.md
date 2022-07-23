@@ -1,43 +1,35 @@
-# Nicolai Holmgaard
+# 💫 About Me:
+👋 Hi! I'm Nicolai Holmgaard<br>🍺 I am 18 years old<br> 🇩🇰 I'm from Denmark<br>🏫 I go to HTX on 3.G in Holstebro, <br>📪 If you want to contact me, you can send me an email at: Nicolai@holmgaard.info
 
-- 👋 Hej! Jeg hedder Nicolai Holmgaard
-- 🍺 Jeg er 18 år
-- 🏫 Jeg går på 2.g på HTX i Holstebro
-- 💼 Jeg arbejder hos SolKro som app udvikler, hvor jeg bruger react native
-- 📪 Hvis du vil kontakte mig, så send mig en email: Nicolai@holmgaard.info
+![Views](https://komarev.com/ghpvc/?username=nicolai-holmgaard&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolai-holmgaard&label=Profile%20views&color=0e75b6&style=flat" alt="nicolai-holmgaard" /> </p>
 
-​![​Nicolai Holmgaard's github stats​](https://github-readme-stats.vercel.app/api?username=Nicolai-Holmgaard&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## Programmering
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <br/>
-Lige nu skriver jeg i Typescript og JavaScript.
-Det bruger jeg til at lave hjemmesider i react og mobile apps i react native.
-Til backend bruger jeg socket.io og express.
-For at håndtere database vil jeg normalt bruge Prisma for at gøre det hele nemt.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolai-holmgaard&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&locale=en&layout=compact" alt="nicolai-holmgaard" />
 
-## Andre it kompetencer
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-- Linux: Jeg er erfaren i at bruge Linux på servere, men også til dagligdags.
-- Photoshop: Jeg har brugt Photoshop i flere år til at rette billeder eller til at lave diverse iconer.
-- Git: Jeg bruger altid GitHub når jeg er igang med et projekt, eller er ved at rette noget open-source.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nicolai-Holmgaard&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nicolai-Holmgaard&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolai-Holmgaard&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Fremtiden
-Længere fremme vil jeg gerne lære at skrive i rust, for at lave mere effektive og optimeret applikationer.
-Jeg vil også gerne lære at udnytte Kubernetes og docker.
-Planen er at blive blive erfaren i at bruge AWS og bruge det på den bedste måde.
 
-## Hvor kan du finde mig
-Du kan finde mig disse steder
-- Min hjemmeside: *coming soon*
+# 🔨 What im learning right now
+Right now im trying to learn rust, so i can make faster and more efficient applications. Rust is also a very good language for the backend, which is what i like working on the most.
+Also im learning svelte, for an easy frontend framework that is also very fast.
+
+# ⌛ What I want to learn soon™
+Soon i want to learn docker to standardize the environment for my projects.
+I want to get better at optimizing my code, so it runs faster and so it will contain less 🍝
+
+# 🔎 Where to find me
+- My website: *coming soon*
 - Facebook: <a href="https://fb.com/nicolai.holmgaard.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicolai.holmgaard.33" height="30" width="40" /></a>
 - Instagram: <a href="https://instagram.com/nicolai_holmgaard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolai_holmgaatd" height="30" width="40" /></a>
 - Email: Nicolai@holmgaard.info
+
+
+
+# 😂 Funny meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
