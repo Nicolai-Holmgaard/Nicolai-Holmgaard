@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Nicolai Holmgaard<br>🍺 I am 18 years old<br> 🇩🇰 I'm from Denmark<br>🏫 I go to HTX on 3.G in Holstebro, <br>📪 If you want to contact me, you can send me an email at: Nicolai@holmgaard.info
+👋 Hi! I'm Nicolai Holmgaard<br>🍺 I am 19 years old<br> 🇩🇰 I'm from Denmark<br>📪 If you want to contact me, you can send me an email at: Nicolai@holmgaard.info
 
 ![Views](https://komarev.com/ghpvc/?username=nicolai-holmgaard&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -28,8 +28,3 @@ I want to get better at optimizing my code, so it runs faster and so it will con
 - Facebook: <a href="https://fb.com/nicolai.holmgaard.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nicolai.holmgaard.33" height="30" width="40" /></a>
 - Instagram: <a href="https://instagram.com/nicolai_holmgaard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolai_holmgaatd" height="30" width="40" /></a>
 - Email: Nicolai@holmgaard.info
-
-
-
-# 😂 Funny meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
